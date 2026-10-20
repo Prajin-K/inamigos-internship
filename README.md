@@ -106,7 +106,6 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 * **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
   * `Task1_AI_Tools_Discovery.docx` (Comprehensive formal Word report)
   * `Task1_AI_Tools_Discovery.pptx` (10-slide widescreen presentation)
-  * `Task1_LinkedIn_Post_Screenshot.png` (Social media verification screenshot)
 * **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Public research documentation & README)
 * **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
 
