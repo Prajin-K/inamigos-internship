@@ -102,25 +102,41 @@ Explore **5 different AI tools** across diverse functional domains (education, p
 
 ---
 
-## 📁 Repository Deliverables
+## 📁 Submission & Storage Architecture
 
-```
-inamigos-internship/
-├── Task1_AI_Tools_Discovery.docx   # Comprehensive formal Word report
-├── Task1_AI_Tools_Discovery.pptx   # Professional 10-slide widescreen presentation
-├── LinkedIn_Post_Draft.md          # Ready-to-publish social media copy
-├── generate_docx.py               # Automation script generating the DOCX report
-├── generate_pptx.py               # Automation script generating the PPTX slides
-├── intern.pdf                     # InAmigos Foundation Internship Offer Letter
-└── README.md                      # Complete project overview & documentation
-```
+* **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
+  * `Task1_AI_Tools_Discovery.docx` (Comprehensive formal Word report)
+  * `Task1_AI_Tools_Discovery.pptx` (10-slide widescreen presentation)
+  * `Task1_LinkedIn_Post_Screenshot.png` (Social media verification screenshot)
+* **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Public research documentation & README)
+* **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
 
 ---
 
-## 🌐 Submission Links
-* **Google Drive Submission Folder:** [InAmigos Drive Folder](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
-* **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K)
-* **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
+## 📱 Social Media Sharing (LinkedIn Post)
+
+<details>
+<summary><b>Click to view LinkedIn / Social Media Post Copy</b></summary>
+
+```markdown
+🚀 Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
+
+For Task 1: "AI Tools Discovery 🤖✨", I had the opportunity to explore 5 transformative AI tools across diverse functional domains:
+
+1️⃣ Perplexity AI (Education & Research 🎓) — A citation-backed answer engine synthesizing verified sources with clickable links.
+2️⃣ Notion AI (Productivity & Workspaces ⚡) — A context-aware workspace copilot turning raw meeting notes into structured action items.
+3️⃣ Midjourney (Image Generation & Design 🎨) — A cutting-edge diffusion model generating photorealistic concept artwork and visual assets.
+4️⃣ Synthesia (Video Creation & AI Avatars 🎥) — Studio-grade synthetic media platform converting written scripts into avatar-led presenter videos across 120+ languages.
+5️⃣ Gamma AI (Presentations & Visual Decks 📊) — Prompt-to-deck builder for interactive responsive presentations.
+
+💡 Key Takeaway: The real power of modern AI lies in chaining specialized domain tools together into a seamless workflow.
+
+A big thank you to InAmigos Foundation for curating an incredible learning journey!
+
+#InAmigosFoundation #ArtificialIntelligence #AITools #Internship #PerplexityAI #NotionAI #Midjourney #Synthesia #GammaAI #LearningInPublic #GenerativeAI #Productivity
+```
+
+</details>
 
 ---
 
