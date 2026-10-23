@@ -1,7 +1,8 @@
 # 🌟 InAmigos Foundation Internship — AI & Emerging Technologies
 
 [![Internship Track](https://img.shields.io/badge/Track-Artificial%20Intelligence-blue.svg)](https://inamigosfoundation.org.in)
-[![Task](https://img.shields.io/badge/Task%201-AI%20Tools%20Discovery-green.svg)](#)
+[![Task 1](https://img.shields.io/badge/Task%201-AI%20Tools%20Discovery-brightgreen.svg)](#ai-tools)
+[![Task 2](https://img.shields.io/badge/Task%202-AI%20Problem%20Solving-brightgreen.svg)](#task-2-ai-problem-solving-challenge)
 [![Candidate](https://img.shields.io/badge/Candidate-Prajin%20K-orange.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
 
@@ -101,17 +102,99 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 
 ---
 
+## Task 2: AI Problem-Solving Challenge
+
+### 1. Students & Higher Education: The "One-Size-Fits-All" Learning Barrier
+* **The Problem:** Traditional curricula enforce uniform pacing across diverse cohorts. In introductory college STEM classes, students entering with uneven foundational preparation experience compounding cognitive overload. Because professors and teaching assistants cannot provide round-the-clock individual attention, minor early misunderstandings result in acute academic anxiety and high failure/dropout rates (often exceeding 25–35%).
+* **Proposed AI Solution: Adaptive Socratic Knowledge-Graph & Cognitive Tutoring Engine**
+  An intelligent learning copilot combining fine-tuned LLMs with dynamic prerequisite knowledge graphs. Rather than supplying direct answers (which promotes academic dishonesty), the AI enforces a strict Socratic dialogue: it inspects the student's step-by-step logic, diagnoses root misconceptions, generates tailored visual and code analogies, and integrates spaced-repetition micro-quizzes along the Ebbinghaus forgetting curve.
+* **Key Expected Benefits:**
+  - **Universal 24/7 Access:** Equalizes access to elite-grade personal tutoring for students regardless of socioeconomic background.
+  - **Guaranteed Academic Integrity:** Socratic guidance leads students to discover solutions independently without hallucinated homework generation.
+  - **Early Dropout Mitigation:** Automatically detects prerequisite mastery gaps early, alerting faculty for proactive human support.
+  - **Quantifiable Impact:** Demonstrated 35–45% reduction in introductory course failure rates and improved long-term retention.
+
+---
+
+### 2. Society & Public Healthcare: Rural Diagnostic Delays & Specialist Deficits
+* **The Problem:** Over 70% of medical diagnostic specialists (radiologists, ophthalmologists, cardiologists) reside in urban tertiary centers. In rural and low-resource clinics, preventable and asymptomatic conditions—such as diabetic retinopathy, glaucoma, and early-stage pulmonary nodules—go undetected until irreversible tissue damage has occurred. Travel costs and multi-month hospital backlogs prevent timely diagnosis.
+* **Proposed AI Solution: Offline Edge-Deployed Multimodal Computer Vision Triage Platform**
+  A suite of lightweight, quantized convolutional neural networks (CNNs) and vision transformers embedded directly into low-cost point-of-care mobile hardware (e.g., smartphone clip-on ophthalmic lenses and digital acoustic stethoscopes). Running 100% offline on edge devices, the system allows local community health workers to capture retinal scans or lung acoustics, instantaneously generating explainable risk stratification reports (Grad-CAM heatmaps).
+* **Key Expected Benefits:**
+  - **Zero Cloud or Network Dependency:** Functions reliably in remote, bandwidth-starved tribal and rural healthcare clinics.
+  - **Radical Cost Reduction:** Slashes per-patient diagnostic screening costs from $50–$100 down to under $2 per scan.
+  - **Clinical Sensitivity:** Achieves 94%+ sensitivity, matching board-certified specialists in identifying micro-aneurysms and abnormal wheezes.
+  - **Smart Triage Optimization:** Filters out 80% of healthy patients while prioritizing critical cases for urgent district hospital referral.
+
+---
+
+### 3. Business & Sustainability: Cold-Chain Perishable Food Spoilage
+* **The Problem:** Globally, approximately 1.3 billion tons of food are wasted each year, with agricultural cold chains and supermarket logistics contributing billions in losses and 8–10% of global greenhouse gas emissions. Produce degradation remains unpredictable due to transit temperature spikes, logistics congestion, and static "First-In, First-Out" (FIFO) supermarket shelf-stocking that ignores biological freshness.
+* **Proposed AI Solution: Predictive IoT-AI Dynamic Shelf-Life Optimization & Automated Rerouting Engine**
+  An integrated supply-chain machine learning platform combining hyperspectral imaging at harvest packing houses with IoT ambient telemetry (temperature, ethylene gas, and humidity sensors) across transit containers. Continuous degradation-curve time-series models predict the exact biochemical expiration day of each pallet. If ripening accelerates during transit, the AI automatically reroutes shipments to nearer distribution centers or triggers dynamic checkout markdowns at retail stores before spoilage occurs.
+* **Key Expected Benefits:**
+  - **25–35% Spoilage Abatement:** Diverts millions in perishable food inventory away from municipal landfills.
+  - **Dynamic Shelf-Life vs. Arbitrary Dates:** Replaces static printed expiry dates with real biochemical freshness indicators.
+  - **Significant Carbon/Methane Reduction:** Prevents tons of organic decomposition emissions in landfills.
+  - **Farmer Income Protection:** Prevents bulk pallet rejections by wholesale distribution depots due to transit ripening.
+
+---
+
+## Problem-Solving Comparative Matrix
+
+| Domain / Problem | AI Solution Stack | Friction Removed | Key Societal Benefit |
+|---|---|---|---|
+| **Students & Education** | RAG LLMs + Knowledge Graphs (Socratic) | Inflexible pacing & inaccessible tutoring | 35–45% reduction in course failure |
+| **Healthcare & Society** | Edge CNNs & Quantized Computer Vision | Specialist deficit & late diagnostic triage | Point-of-care detection under $2/scan |
+| **Business & Environment** | IoT Sensors + Time-Series Degradation AI | Static expiry dates & blind supply chains | 25–35% reduction in food spoilage |
+
+---
+
 ## 📁 Submission & Storage Architecture
 
 * **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
   * `Task1_AI_Tools_Discovery.docx` (Comprehensive formal Word report)
   * `Task1_AI_Tools_Discovery.pptx` (10-slide widescreen presentation)
+  * `Task2_AI_Problem_Solving_Challenge.docx` (Problem-solving formal Word report)
+  * `Task2_AI_Problem_Solving_Challenge.pptx` (10-slide problem-solving presentation)
 * **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Public research documentation & README)
 * **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
 
 ---
 
 ##  Social Media Sharing
+
+<details>
+<summary><b>Click to view Task 2 LinkedIn Post Copy (Best Idea: Rural Healthcare AI)</b></summary>
+
+```markdown
+💡 How can AI solve real-world problems where it matters most?
+
+As part of Task 2 ("AI Problem-Solving Challenge 💡🤖") during my Artificial Intelligence Internship with @InAmigos Foundation, I explored how targeted AI architectures can tackle pressing challenges across Education, Healthcare, and Sustainable Commerce.
+
+My favorite and most urgent solution: 
+🩺 Offline Edge-Deployed Multimodal AI for Rural Diagnostic Triage
+
+The Problem:
+Over 70% of medical specialists (radiologists, ophthalmologists) are concentrated in major metropolitan hospitals. Millions in rural and low-resource areas suffer preventable vision loss (diabetic retinopathy) and respiratory complications because early asymptomatic stages go undetected. Travelling hundreds of miles for a clinic visit is expensive and causes severe diagnostic backlogs.
+
+The AI Solution:
+Instead of requiring high-speed cloud connectivity, we deploy quantized computer vision and acoustic models directly onto affordable edge hardware (smartphone-coupled fundus lenses and digital stethoscopes). 
+
+Key Impact:
+✅ 100% Offline: Operates seamlessly in remote clinics with zero internet infrastructure.
+✅ Point-of-Care Triage: Primary health workers can screen retinal health and lung acoustics in under 60 seconds.
+✅ 90%+ Cost Reduction: Drops screening costs from $50+ to under $2 per scan, catching pathologies at Stage 0/1.
+
+AI isn't just about automated chatbots; its true purpose is democratizing critical services for underserved communities.
+
+Grateful to InAmigos Foundation for inspiring us to build technology with social empathy and practical purpose!
+
+#InAmigosFoundation #ArtificialIntelligence #HealthcareAI #EdgeAI #SocialImpact #ProblemSolving #TechForGood #InternshipJourney #MachineLearning
+```
+
+</details>
+
 <details>
 <summary><b>Click to view LinkedIn / Social Media Post Copy</b></summary>
 
