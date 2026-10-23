@@ -1,4 +1,4 @@
-# 🌟 InAmigos Foundation Internship — AI & Emerging Technologies
+#  InAmigos Foundation Internship — AI & Emerging Technologies
 
 [![Internship Track](https://img.shields.io/badge/Track-Artificial%20Intelligence-blue.svg)](https://inamigosfoundation.org.in)
 [![Task 1](https://img.shields.io/badge/Task%201-AI%20Tools%20Discovery-brightgreen.svg)](#ai-tools)
@@ -16,7 +16,7 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 
 ---
 
-## 🗂️ Explored AI Tools Summary
+##  Explored AI Tools Summary
 
 | # | Tool Name | Functional Domain | Core Purpose | Practical Real-World Use Case |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 
 ---
 
-## 🔍 Detailed Tool Profiles
+##  Detailed Tool Profiles
 
 ### 1. Perplexity AI 
 * **Category:** Education & Academic Research
@@ -150,27 +150,14 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 
 ---
 
-## 📁 Submission & Storage Architecture
 
-* **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
-  * `Task1_AI_Tools_Discovery.docx` (Comprehensive formal Word report)
-  * `Task1_AI_Tools_Discovery.pptx` (10-slide widescreen presentation)
-  * `Task2_AI_Problem_Solving_Challenge.docx` (Problem-solving formal Word report)
-  * `Task2_AI_Problem_Solving_Challenge.pptx` (10-slide problem-solving presentation)
-* **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Public research documentation & README)
-* **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
 
----
 
-##  Social Media Sharing
-
-<details>
-<summary><b>Click to view Task 2 LinkedIn Post Copy (Best Idea: Rural Healthcare AI)</b></summary>
 
 ```markdown
-💡 How can AI solve real-world problems where it matters most?
+ How can AI solve real-world problems where it matters most?
 
-As part of Task 2 ("AI Problem-Solving Challenge 💡🤖") during my Artificial Intelligence Internship with @InAmigos Foundation, I explored how targeted AI architectures can tackle pressing challenges across Education, Healthcare, and Sustainable Commerce.
+As part of Task 2 ("AI Problem-Solving Challenge ") during my Artificial Intelligence Internship with @InAmigos Foundation, I explored how targeted AI architectures can tackle pressing challenges across Education, Healthcare, and Sustainable Commerce.
 
 My favorite and most urgent solution: 
 🩺 Offline Edge-Deployed Multimodal AI for Rural Diagnostic Triage
@@ -199,7 +186,7 @@ Grateful to InAmigos Foundation for inspiring us to build technology with social
 <summary><b>Click to view LinkedIn / Social Media Post Copy</b></summary>
 
 ```markdown
-🚀 Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
+ Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
 
 For Task 1: "AI Tools Discovery ", I had the opportunity to explore 5 transformative AI tools across diverse functional domains:
 
