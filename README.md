@@ -3,6 +3,7 @@
 [![Internship Track](https://img.shields.io/badge/Track-Artificial%20Intelligence-blue.svg)](https://inamigosfoundation.org.in)
 [![Task 1](https://img.shields.io/badge/Task%201-AI%20Tools%20Discovery-brightgreen.svg)](#ai-tools)
 [![Task 2](https://img.shields.io/badge/Task%202-AI%20Problem%20Solving-brightgreen.svg)](#task-2-ai-problem-solving-challenge)
+[![Task 3](https://img.shields.io/badge/Task%203-AI%20Awareness%20Challenge-brightgreen.svg)](#task-3-ai-awareness-challenge)
 [![Candidate](https://img.shields.io/badge/Candidate-Prajin%20K-orange.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
 
@@ -150,14 +151,95 @@ Welcome to the repository documenting my work for the **InAmigos Foundation Arti
 
 ---
 
+## Task 3: AI Awareness Challenge
 
+### Campaign Theme: "Think Before You Prompt: 5 Golden Rules for Safe & Responsible AI"
 
+The objective of Task 3 is to cultivate critical digital literacy and safe, ethical interaction with artificial intelligence across students, educators, and working professionals.
 
+#### 5 Essential Rules for Responsible AI
+
+1. **Rule 1: Fact-Check Everything (Verify, Don't Blindly Trust)**
+   * *The Mechanism:* Large language models predict probable tokens rather than objective reality. They frequently hallucinate fake citations, inaccurate calculations, and non-existent events with high rhetorical confidence.
+   * *DO:* Cross-verify critical facts, citations, dates, and formulas with authoritative primary references.
+   * *DON'T:* Never copy-paste unverified AI claims directly into academic, legal, or medical submissions.
+
+2. **Rule 2: Protect Personal & Confidential Data (Privacy First)**
+   * *The Mechanism:* Prompts entered into public commercial AI tools are stored on remote cloud servers and can be inspected by human trainers or absorbed into training datasets for future model iterations.
+   * *DO:* Anonymize all data; substitute real names, identification numbers, and locations with synthetic placeholders.
+   * *DON'T:* Never input passwords, Aadhaar/SSN, private finances, donor lists, medical records, or proprietary workplace code.
+
+3. **Rule 3: Question the Output (Spot Bias & Stereotypes)**
+   * *The Mechanism:* AI models mirror historical human biases in web text, reinforcing gender, racial, cultural, and geographic stereotypes as default truth.
+   * *DO:* Apply critical scrutiny: ask whose viewpoint is missing or disproportionately represented.
+   * *DON'T:* Never assume an AI output is objective, universally inclusive, or ethically neutral by default.
+
+4. **Rule 4: Avoid Over-Dependence (Build Your Cognitive Muscle)**
+   * *The Mechanism:* Outsourcing every draft, analysis, and decision to AI weakens organic analytical depth, working memory, and creative intuition (cognitive offloading).
+   * *DO:* Use AI as a sparring partner to brainstorm structure and overcome blank-page inertia after forming your own initial thoughts.
+   * *DON'T:* Never allow AI to substitute for your original critical thinking, conceptual reasoning, or decision-making.
+
+5. **Rule 5: Practice Integrity & Transparency (Own Your Work)**
+   * *The Mechanism:* Presenting unedited AI-generated work as your own violates academic honor codes and workplace integrity standards, eroding personal and professional credibility.
+   * *DO:* Be transparent about AI assistance, cite models and prompts where required, and ensure the authentic voice is yours.
+   * *DON'T:* Never claim sole personal authorship over unedited AI outputs or submit AI essays as original homework.
+
+> **The Golden Rule:** You are always responsible for what you publish, submit, or decide - not the AI.
+
+---
+
+## Submission & Storage Architecture
+
+* **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
+  * `Task1_AI_Tools_Discovery.docx` (Formal Word report)
+  * `Task1_AI_Tools_Discovery.pptx` (10-slide presentation)
+  * `Task2_AI_Problem_Solving_Challenge.docx` (Formal Word report)
+  * `Task2_AI_Problem_Solving_Challenge.pptx` (10-slide presentation)
+  * `Task3_AI_Awareness_Poster.png` (High-resolution awareness infographic poster)
+  * `Task3_AI_Awareness_Poster.pdf` (Printable vector-quality awareness poster)
+  * `Task3_AI_Awareness_Guide.docx` (Formal awareness report and guide)
+  * `Task3_AI_Awareness_Presentation.pptx` (6-slide awareness presentation)
+* **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Technical documentation & README)
+* **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
+
+---
+
+## Social Media Sharing
+
+<details>
+<summary><b>Click to view Task 3 LinkedIn Post Copy (AI Awareness Infographic)</b></summary>
 
 ```markdown
- How can AI solve real-world problems where it matters most?
+🧠⚡ THINK BEFORE YOU PROMPT: 5 Golden Rules for Safe & Responsible AI
 
-As part of Task 2 ("AI Problem-Solving Challenge ") during my Artificial Intelligence Internship with @InAmigos Foundation, I explored how targeted AI architectures can tackle pressing challenges across Education, Healthcare, and Sustainable Commerce.
+As part of Task 3 ("AI Awareness Challenge 🧠⚡") during my Artificial Intelligence Internship with @InAmigos Foundation, I designed an awareness infographic poster addressing the critical things everyone should know before using generative AI tools.
+
+While AI supercharges productivity, adopting it safely requires conscious digital literacy:
+
+1️⃣ Fact-Check Everything 🔍: AI models predict probable words, not objective facts. They frequently hallucinate convincing falsehoods. Always verify critical citations and figures!
+2️⃣ Privacy First 🛡️: What you prompt can be stored and used to train future foundation models. Never input passwords, private IDs, or proprietary workplace code.
+3️⃣ Question the Output ⚖️: AI mirrors internet biases. Critically evaluate outputs for cultural, gender, or demographic stereotypes before publishing.
+4️⃣ Avoid Over-Dependence 🧠: AI is a cognitive copilot, not an autopilot. Outsourcing all thinking erodes your organic problem-solving and analytical skills.
+5️⃣ Practice Transparency & Integrity ✍️: Be honest about AI assistance, cite models appropriately, and ensure the authentic intellectual voice is yours.
+
+💡 The Golden Rule: You are always responsible for what you publish, submit, or decide — not the AI!
+
+A huge thank you to InAmigos Foundation for emphasizing technology ethics and human accountability alongside technical innovation.
+
+📂 All creative files (Poster PNG/PDF, Slides, Guide & Code) are archived on Google Drive and GitHub!
+
+#InAmigosFoundation #AIAwareness #ResponsibleAI #EthicsInAI #AIEducation #DigitalLiteracy #TechForGood #ThinkBeforeYouPrompt #GenerativeAI #InternshipJourney
+```
+
+</details>
+
+<details>
+<summary><b>Click to view Task 2 LinkedIn Post Copy (Best Idea: Rural Healthcare AI)</b></summary>
+
+```markdown
+How can AI solve real-world problems where it matters most?
+
+As part of Task 2 ("AI Problem-Solving Challenge") during my Artificial Intelligence Internship with @InAmigos Foundation, I explored how targeted AI architectures can tackle pressing challenges across Education, Healthcare, and Sustainable Commerce.
 
 My favorite and most urgent solution: 
 🩺 Offline Edge-Deployed Multimodal AI for Rural Diagnostic Triage
@@ -183,20 +265,20 @@ Grateful to InAmigos Foundation for inspiring us to build technology with social
 </details>
 
 <details>
-<summary><b>Click to view LinkedIn / Social Media Post Copy</b></summary>
+<summary><b>Click to view Task 1 LinkedIn Post Copy</b></summary>
 
 ```markdown
- Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
+Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
 
-For Task 1: "AI Tools Discovery ", I had the opportunity to explore 5 transformative AI tools across diverse functional domains:
+For Task 1: "AI Tools Discovery", I had the opportunity to explore 5 transformative AI tools across diverse functional domains:
 
-1️⃣ Perplexity AI (Education & Research ) — A citation-backed answer engine synthesizing verified sources with clickable links.
-2️⃣ Notion AI (Productivity & Workspaces ) — A context-aware workspace copilot turning raw meeting notes into structured action items.
-3️⃣ Midjourney (Image Generation & Design ) — A cutting-edge diffusion model generating photorealistic concept artwork and visual assets.
-4️⃣ Synthesia (Video Creation & AI Avatars ) — Studio-grade synthetic media platform converting written scripts into avatar-led presenter videos across 120+ languages.
-5️⃣ Gamma AI (Presentations & Visual Decks ) — Prompt-to-deck builder for interactive responsive presentations.
+1️⃣ Perplexity AI (Education & Research) — A citation-backed answer engine synthesizing verified sources with clickable links.
+2️⃣ Notion AI (Productivity & Workspaces) — A context-aware workspace copilot turning raw meeting notes into structured action items.
+3️⃣ Midjourney (Image Generation & Design) — A cutting-edge diffusion model generating photorealistic concept artwork and visual assets.
+4️⃣ Synthesia (Video Creation & AI Avatars) — Studio-grade synthetic media platform converting written scripts into avatar-led presenter videos across 120+ languages.
+5️⃣ Gamma AI (Presentations & Visual Decks) — Prompt-to-deck builder for interactive responsive presentations.
 
- Key Takeaway: The real power of modern AI lies in chaining specialized domain tools together into a seamless workflow.
+Key Takeaway: The real power of modern AI lies in chaining specialized domain tools together into a seamless workflow.
 
 A big thank you to InAmigos Foundation for curating an incredible learning journey!
 
