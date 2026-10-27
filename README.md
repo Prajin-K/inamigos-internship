@@ -259,10 +259,6 @@ Grateful to InAmigos Foundation for inspiring us to build technology with social
 #InAmigosFoundation #ArtificialIntelligence #HealthcareAI #EdgeAI #SocialImpact #ProblemSolving #TechForGood #InternshipJourney #MachineLearning
 ```
 
-</details>
-
-<details>
-
 
 ```markdown
 Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
