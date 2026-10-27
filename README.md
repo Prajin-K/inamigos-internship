@@ -262,7 +262,7 @@ Grateful to InAmigos Foundation for inspiring us to build technology with social
 </details>
 
 <details>
-<summary><b>Click to view Task 1 LinkedIn Post Copy</b></summary>
+
 
 ```markdown
 Excited to kick off my Artificial Intelligence Internship with @InAmigos Foundation!
@@ -280,11 +280,7 @@ Key Takeaway: The real power of modern AI lies in chaining specialized domain to
 A big thank you to InAmigos Foundation for curating an incredible learning journey!
 
 #InAmigosFoundation #ArtificialIntelligence #AITools #Internship #PerplexityAI #NotionAI #Midjourney #Synthesia #GammaAI #LearningInPublic #GenerativeAI #Productivity
-```
 
-</details>
-
----
 
 ##  Key Takeaways
 1. **Specialized AI Tools Outperform Generalist Models:** Custom-built applications like Gamma and Perplexity streamline domain workflows far better than standalone chat interfaces.
