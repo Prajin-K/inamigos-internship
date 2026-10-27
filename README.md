@@ -204,10 +204,7 @@ The objective of Task 3 is to cultivate critical digital literacy and safe, ethi
 
 ---
 
-## Social Media Sharing
 
-<details>
-<summary><b>Click to view Task 3 LinkedIn Post Copy (AI Awareness Infographic)</b></summary>
 
 ```markdown
 🧠⚡ THINK BEFORE YOU PROMPT: 5 Golden Rules for Safe & Responsible AI
@@ -234,7 +231,7 @@ A huge thank you to InAmigos Foundation for emphasizing technology ethics and hu
 </details>
 
 <details>
-<summary><b>Click to view Task 2 LinkedIn Post Copy (Best Idea: Rural Healthcare AI)</b></summary>
+
 
 ```markdown
 How can AI solve real-world problems where it matters most?
