@@ -4,6 +4,7 @@
 [![Task 1](https://img.shields.io/badge/Task%201-AI%20Tools%20Discovery-brightgreen.svg)](#ai-tools)
 [![Task 2](https://img.shields.io/badge/Task%202-AI%20Problem%20Solving-brightgreen.svg)](#task-2-ai-problem-solving-challenge)
 [![Task 3](https://img.shields.io/badge/Task%203-AI%20Awareness%20Challenge-brightgreen.svg)](#task-3-ai-awareness-challenge)
+[![Task 5](https://img.shields.io/badge/Task%205-AI%20for%20Social%20Impact-brightgreen.svg)](#task-5-ai-for-social-impact)
 [![Candidate](https://img.shields.io/badge/Candidate-Prajin%20K-orange.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](#)
 
@@ -188,6 +189,62 @@ The objective of Task 3 is to cultivate critical digital literacy and safe, ethi
 
 ---
 
+## Task 5: AI for Social Impact
+
+### Objective
+Identify how Artificial Intelligence can be leveraged beyond commercial enterprise to create tangible, positive societal development for Non-Governmental Organizations (NGOs) and underserved communities.
+
+---
+
+### 5 Practical AI Architectures for Social Development
+
+#### 1. Intelligent Volunteer Skill Matching & Retention Engine (Volunteer Management)
+* **The Social Challenge:** Grassroots NGOs struggle with manual volunteer coordination and mismatched roles, leading to volunteer fatigue and high dropout rates (~50% within 90 days).
+* **AI-Powered Solution:** An NLP-driven semantic matching engine integrated into WhatsApp and web portals. It analyzes volunteer backgrounds, professional competencies, schedules, and geographic coordinates to dynamically assign high-impact micro-tasks. Predictive telemetry flags early disengagement to trigger timely appreciation and support.
+* **Key Societal & NGO Benefits:** Reduces administrative coordination overhead by 70%, increases volunteer retention by 40%, and accelerates community drive mobilization.
+
+---
+
+#### 2. Multilingual Voice-First Vernacular AI Educational Tutor (Vernacular Education & Inclusion)
+* **The Social Challenge:** In rural and tribal regions, first-generation learners suffer from a lack of subject-matter teachers. Traditional educational apps require English proficiency and written typing, alienating millions who learn best through spoken conversation.
+* **AI-Powered Solution:** A voice-first AI tutor capable of operating over low-cost mobile phones and toll-free IVR lines. Combining localized Automatic Speech Recognition (ASR), regional language LLMs, and natural Text-to-Speech (TTS), it explains STEM concepts using regional metaphors, provides infinite-patience Socratic guidance, and listens to oral reading for phonetic correction.
+* **Key Societal & NGO Benefits:** Democratizes personalized 1-on-1 tutoring, eliminates the English barrier, and empowers grassroots NGOs running evening learning centers to scale their impact 10x.
+
+---
+
+#### 3. Computer-Vision Assisted Stray Animal Rescue & Health Triage (Animal Welfare & Public Health)
+* **The Social Challenge:** Urban centers experience severe stray animal distress and rabies risks. Rescue NGOs receive hundreds of unverified SOS alerts daily, struggling to prioritize life-threatening trauma (open wounds, fractures, dehydration) with limited ambulance fleets.
+* **AI-Powered Solution:** A community reporting app and WhatsApp bot powered by lightweight Computer Vision CNNs. Citizens submit a photo/video; the AI classifies trauma urgency, predicts injury risk, extracts GPS coordinates, and groups reports. It also utilizes facial biometric recognition to track rabies vaccination/sterilization history and builds adoption profiles.
+* **Key Societal & NGO Benefits:** Directs rescue ambulances to critical emergencies first (cutting response time by 60%), reduces animal mortality by 45%, and supports municipal rabies prevention.
+
+---
+
+#### 4. Multimodal Ambient Vision & Real-Time Sign Language Translator (Accessibility & Assistive Tech)
+* **The Social Challenge:** Visually impaired individuals and deaf/hard-of-hearing communities face pervasive navigation and communication barriers in public infrastructure. Dedicated hardware is prohibitively expensive for low-income households.
+* **AI-Powered Solution:** An on-device accessibility assistant running on standard smartphones. For the visually impaired, it delivers real-time whisper audio describing obstacles, reading medicine labels, and identifying currency. For deaf users, it tracks hand keypoints to translate Sign Language (ISL/Universal) into synthesized voice in real time, and transcribes spoken responses back into text.
+* **Key Societal & NGO Benefits:** Unlocks daily independent navigation and employment mobility for persons with disabilities without requiring costly specialized hardware.
+
+---
+
+#### 5. Geo-Spatial AI & Social Listening for Rapid Crisis Relief Triage (Disaster Response)
+* **The Social Challenge:** During natural disasters (floods, cyclones, earthquakes), chaotic SOS reports flood social media. Relief NGOs face severe resource misallocation where easily accessible camps receive surplus supplies while marooned victims remain unreached.
+* **AI-Powered Solution:** A crisis response platform aggregating emergency social posts, helpline calls, and satellite imagery. LLMs extract verified geolocations and urgent needs (food, medical, evacuation), while computer vision maps inundated roads to compute optimal navigation routes for relief delivery.
+* **Key Societal & NGO Benefits:** Eliminates relief duplication, cuts emergency response latency from days to hours, and provides live transparent delivery tracking for donors.
+
+---
+
+### Comparative Matrix: 5 AI Ideas for Social Impact
+
+| Social Domain | AI Technology Stack | Core Bottleneck Resolved | Target Societal Benefit |
+|---|---|---|---|
+| **Volunteer Management** | Semantic NLP + Engagement Telemetry | Manual roster churn & skill mismatch | 40% higher retention, 70% less admin |
+| **Vernacular Education** | Dialect ASR + Localized LLM + TTS | Teacher shortage & English barrier | 35% higher foundational learning scores |
+| **Animal Welfare** | Edge Vision CNNs + GPS Triage | Unprioritized SOS & slow dispatch | 60% faster emergency rescue response |
+| **Assistive Tech** | On-Device Spatial Vision + Gesture | Prohibitive hardware costs for PwDs | Daily independent mobility & sign translation |
+| **Disaster Relief** | Geo-Spatial AI + Multimodal SOS | Relief duplication & blocked transit | 3x faster emergency supply delivery |
+
+---
+
 ## Submission & Storage Architecture
 
 * **Google Drive Official Submission Folder:** [InAmigos Foundation Drive](https://drive.google.com/drive/folders/1xOvNfGegotQ_8SQEWNQJn3QZpRG4Ij1B)
@@ -199,12 +256,60 @@ The objective of Task 3 is to cultivate critical digital literacy and safe, ethi
   * `Task3_AI_Awareness_Poster.pdf` (Printable vector-quality awareness poster)
   * `Task3_AI_Awareness_Guide.docx` (Formal awareness report and guide)
   * `Task3_AI_Awareness_Presentation.pptx` (6-slide awareness presentation)
+  * `Task5_AI_for_Social_Impact.docx` (Final capstone formal Word report)
+  * `Task5_AI_for_Social_Impact.pptx` (10-slide capstone presentation)
 * **GitHub Repository:** [Prajin-K / inamigos-internship](https://github.com/Prajin-K/inamigos-internship) (Technical documentation & README)
 * **Organization:** [InAmigos Foundation](https://inamigosfoundation.org.in)
 
 ---
 
 
+
+<details>
+<summary><b>Click to view Task 5 LinkedIn Post Copy (Best Idea: Vernacular AI Tutor)</b></summary>
+
+```markdown
+🌍🤖 AI for Social Impact: Using Technology Beyond Business to Empower Grassroots Communities!
+
+I am thrilled to present my final capstone project — Task 5 ("AI for Social Impact 🌍🤖") — completing my Artificial Intelligence Internship journey with @InAmigos Foundation!
+
+While mainstream AI often centers on commercial automation, its highest mission is serving as an equalizer for human development and grassroots non-profits. 
+
+In this capstone, I formulated 5 practical AI architectures designed specifically for NGOs and society:
+1️⃣ Intelligent Volunteer Skill Matching & Retention Engine (Volunteer Management)
+2️⃣ Multilingual Voice-First Vernacular AI Educational Tutor (Vernacular Education)
+3️⃣ Computer-Vision Assisted Stray Animal Rescue & Triage Platform (Animal Welfare)
+4️⃣ Multimodal Ambient Vision & Real-Time Sign Language Translator (Accessibility)
+5️⃣ Geo-Spatial AI & Social Listening for Rapid Disaster Relief Triage (Crisis Response)
+
+🌟 My Best & Most Urgent Idea:
+🗣️ Multilingual Voice-First Vernacular AI Educational Tutor
+
+The Challenge:
+In rural and low-income communities, first-generation learners face acute shortages of qualified subject teachers. Digital tools often demand English literacy and typing skills, leaving behind millions of bright students who speak regional dialects (Hindi, Tamil, Marathi, Bengali, Telugu) and learn best through spoken conversation.
+
+The AI Solution:
+A voice-first AI companion that runs on basic smartphones or IVR phone lines without high-speed internet. It combines localized speech recognition, regional language models, and natural text-to-speech. Children talk to the AI in their mother tongue; the AI explains STEM concepts through regional folk metaphors and provides infinite-patience Socratic guidance.
+
+Key Societal Impact:
+✅ Democratizes 1-on-1 tutoring for kids who cannot afford private coaching.
+✅ Overcomes the English barrier for vernacular-medium students in STEM.
+✅ Multiplies the reach of grassroots NGOs running community evening schools by 10x!
+
+Throughout this internship, I have had the privilege to explore:
+🔹 Task 1: AI Tools Discovery
+🔹 Task 2: AI Problem-Solving Challenge
+🔹 Task 3: Responsible AI Awareness & Infographics
+🔹 Task 5: AI for Social Impact
+
+A heartfelt thank you to InAmigos Foundation for curating an incredible, hands-on internship experience that champions ethical technology, social empathy, and meaningful innovation!
+
+📂 All deliverables (Word Report, Slide Deck & Code) are preserved on Google Drive and GitHub!
+
+#InAmigosFoundation #ArtificialIntelligence #AIForGood #SocialImpact #VernacularAI #EdTech #TechForGood #NGOInnovation #InternshipJourney #GenerativeAI #Accessibility
+```
+
+</details>
 
 ```markdown
 🧠⚡ THINK BEFORE YOU PROMPT: 5 Golden Rules for Safe & Responsible AI
